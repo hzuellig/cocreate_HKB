@@ -29,7 +29,5 @@ Wie müsst ihr die Funktion benutzen, um `mouseX` bei einer Canvasbreite von 600
 Macht euch eine Kopie des Beispiels https://editor.p5js.org/hzuellig/sketches/jyYpde2JK und baut es um. Setzt die Canvasgrösse auf 600*600 und benutzt die Funktion `map()`, um die Farben zu berechnen.
 
 ### Übung
-Inspiration: 
-https://uneventfulodyssey.netlify.app/assets/js/p5/sketch-dot/dot.html
-Kreiert einen 'Stift', der sich je nach Position in der x und y Achse anders verhaltet. 
+Kreiert einen 'Stift', der sich je nach Position in der x und y Achse anders verhaltet. Auf welche Daten könnte der Stift auch noch zugreifen? Auf die aktuelle Zeit? Auf die zurückgesetzte Distanz? Etc.
 

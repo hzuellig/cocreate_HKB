@@ -1,8 +1,9 @@
 # Willkommen zum Modul
 
-* Einführung in p5.js (Einbettung, Koordinaten, Farben, Formen), <a href="https://github.com/hzuellig/sfgz-designandcode/blob/main/09092022/introp5.md">Link Tutorial</a>
-* Vorgegebene und selber definierte Variablen in p5.js, <a href="https://github.com/hzuellig/sfgz-designandcode/blob/main/09092022/variablen.md">Link Tutorial</a>
-* Die Funktion `map` in p5.js, <a href="https://github.com/hzuellig/sfgz-designandcode/blob/main/09092022/mapping.md">Link Tutorial</a>
+* Einführung in p5.js (Einbettung, Koordinaten, Farben, Formen), <a href="https://github.com/hzuellig/sfgz-designandcode/blob/main/09092022/introp5.md">Link </a>
+* Vorgegebene und selber definierte Variablen in p5.js, <a href="https://github.com/hzuellig/sfgz-designandcode/blob/main/09092022/variablen.md">Link </a>
+* Arrays und Typografie <a href="https://github.com/hzuellig/sfgz-designandcode/blob/main/09092022/schrift-array.md">Link </a>
+* Die Funktion `map` in p5.js, <a href="https://github.com/hzuellig/sfgz-designandcode/blob/main/09092022/mapping.md">Link </a>
 * Die Funktion `lerpColor` in p5.js, <a href="https://github.com/hzuellig/sfgz-designandcode/blob/main/09092022/lerpColor.md">Link Tutorial</a>
 
 
