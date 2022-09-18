@@ -1,6 +1,6 @@
 # Interaktionen und Veränderung eines Wertebereichs mit der Funktion map
-Gestern haben wir bereits die Systemvariable `mouseX, mouseY` kennengelernt, die uns die aktuelle Position der Maus angeben.
-Heute möchten wir `mouseX, mouseY` dafür benutzen, unsere Sketches etwas interaktiver zu gestalten. Sie sollen sich verändern, je nachdem wo die Mausposition liegt.<br/>
+Vorher haben wir `mouseX, mouseY` kennengelernt, die uns die aktuelle Position der Maus angeben.
+Jetzt wollen wir `mouseX, mouseY` dafür benutzen, unsere Sketches etwas interaktiver zu gestalten. Sie sollen sich verändern, je nachdem wo die Mausposition liegt.<br/>
 [Beispiel ](https://editor.p5js.org/hzuellig/sketches/jyYpde2JK)<br/>
 Das einfache Beispiel benutzt die `mouseX` Position als Farbwert. 
 `background(mouseX);`<br/>

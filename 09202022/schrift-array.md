@@ -1,7 +1,7 @@
 ## Typografie und Array
 
 ## Schrift einbetten und Styling
-Erstellt einen neuen Folder 'tag2' und darin 'ueb1'. Kopiert index.html und sketch.js aus einem anderen Übungsfolder. Im sketch.js startet ihr mit den Basics und der Funktion zum Bilder exportieren:
+
 
 ```js
 function setup() {
@@ -20,7 +20,7 @@ function keyReleased() {
     }
 }
 ```
-In der <a href="https://p5js.org/reference/">Referenz</a> im Abschnitt 'Typography' findet ihr die Befehle, um Text zu setzen, zu stylen und die Font zu bestimmen. Ergänzt den Sketch:
+In der <a href="https://p5js.org/reference/">Referenz</a> im Abschnitt 'Typography' findet ihr die Befehle, um Text zu setzen, zu stylen und die Font zu bestimmen. Ergänzt den Sketch und probiert die verschiedenen Möglichkeiten aus:
 
 ```js
 let name="Hanna";
