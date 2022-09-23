@@ -8,5 +8,5 @@ www.fhnw.ch/de/hgk/cocreate
 <a href="https://github.com/hzuellig/cocreate_HKB/blob/main/09212022/tagesprogramm.md">Inputs Mittwochnachmittag</a>
 
 
-# >>Projekte ansehen
+# <a href="https://cocreate.netlify.app/" target="_blank">>>Projekte ansehen</a>
 
