@@ -29,7 +29,7 @@ function draw() {
 ```
 
 ### Exkurs
-Vielleicht erinnert ihr euch an Platzhalter aus dem Mathematikunterricht: x + 1 = 5; und dann musste man herausfinden, welchen Wert x hat. Es ist wichtig, zu verstehen, dass Variablen in der Programmierung etwas anderes sind! Eine Variable kann ihren Wert ändern! Ihr füllt sie mit einem Wert und diese Füllung könnt ihr laufend ändern. Wenn ich schreibe:<br/>
+Vielleicht erinnert ihr euch an Platzhalter aus dem Mathematikunterricht: x + 1 = 5; und dann musste man herausfinden, welchen Wert x hat. Es ist wichtig, zu verstehen, dass Variablen in der Programmierung etwas anderes sind! Eine Variable kann ihren Wert ändern! Ihr füllt sie mit einem Wert und diese Zuweisung von Wert an Variable könnt ihr laufend ändern. Wenn ich schreibe:<br/>
 `let durchmesser = 30;`<br/>
 `durchmesser = durchmesser + 30;`<br/>
 So etwas wäre in Mathematik Unsinn. In der Programmierung bedeutet es aber, dass der Wert der Variable `durchmesser `hinterher 60 sein wird. Nach Zeile ist ist er 30 (der Wert 30 wird von links nach rechts in die Variable geschrieben). In Zeile 2 werden zum bisherigen Wert (30) nochmals 30 hinzugezählt (=60). Das Resultat dieser Operation wird wieder in die Variable durchmesser links geschrieben. <br/>

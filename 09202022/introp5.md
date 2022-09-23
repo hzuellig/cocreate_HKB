@@ -96,7 +96,7 @@ Möchtest du, dass das Objekt gar keine Konturlinie hat, kannst du das so angebe
 
 `noStroke();`<br/>
 
-**Alle Angaben zu Objektstil  müssen ausgeführt werden, bevor das Objekt auf den Canvas gezeichnet wird!**
+**Alle Angaben zu Objektstil müssen ausgeführt werden, bevor das Objekt auf den Canvas gezeichnet wird!**
 **Diese Stilangaben sind so lange gültig, bis du sie durch neue Definitionen ersetzt, d.h. überschreibst.**
 
 Die Befehle zur Definition der Stile findest du auf der Referenz in der Sektion Color:
